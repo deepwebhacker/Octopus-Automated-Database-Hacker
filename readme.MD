@@ -62,3 +62,6 @@
 
 # Senior Tester
 - Arun S.
+
+# Sponsor and Support via BTC
+- 3BuUYgEgsRuEra4GwqNVLKnDCTjLEDfptu
