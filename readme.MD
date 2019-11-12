@@ -42,6 +42,8 @@
     <img src="https://i.ibb.co/znf5Ksj/2.png" width="600px"</img> 
 </div>
 
+# Appeared 
+- https://blog.kelvinsecurity.com/2019/09/23/octopus-an-automated-database-hacking-software-with-database-dorks-hacking/
 
 # Android Installation
 - ./chmod u+x *
