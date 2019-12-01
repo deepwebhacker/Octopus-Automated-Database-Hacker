@@ -44,6 +44,8 @@
 
 # Appeared 
 - https://blog.kelvinsecurity.com/2019/09/23/octopus-an-automated-database-hacking-software-with-database-dorks-hacking/
+- National Cyber Security Services
+- Cyber Space
 
 # Android Installation
 - ./chmod u+x *
@@ -56,14 +58,14 @@
 - octopus will become system software
 
 # Compatible
-- Android Led TV, Termux, Linux, Windows
+- Android Led TV
+- Termux
+- Linux
+- Windows using cygwin
 
 # Programmer
 - Haroon Awan
 - mrharoonawan@gmail.com
-
-# Senior Tester
-- Arun S.
 
 # Sponsor and Support via BTC
 - 3BuUYgEgsRuEra4GwqNVLKnDCTjLEDfptu
