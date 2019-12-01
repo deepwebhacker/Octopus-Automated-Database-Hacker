@@ -105,9 +105,7 @@ echo "y" | apt-get install curl
 echo "y" | apt-get install nfs-common
 echo "y" | apt-get install smbclient
 echo "y" | apt-get install gem
-perl -MCPAN -e shell
-install LWP::Protocol::https
-quit
+echo "y" | cpan -fi install LWP::Protocol::https
 echo "y" | git clone https://github.com/the-robot/sqliv.git
 cd sqliv
 chmod u+x *
@@ -134,8 +132,6 @@ pip install request
 chmod u+x *.sh
 cp * -r /usr/share/octopus
 cp *.sh /usr/share/octopus
-cat traceroute-function >> ~/.bashrc
-source ~/.bashrc
 
 if [ -d "/usr/share/octopus" ] ;
 then
