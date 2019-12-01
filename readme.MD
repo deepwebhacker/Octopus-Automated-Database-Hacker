@@ -18,17 +18,16 @@
 # License
 - EULA
 
-# Automated Installation Interface
+# Installation
+- ./Kali_Installer.sh
 <div align="center">
     <img src="https://i.ibb.co/vZHmbXr/3.png" width="600px"</img> 
 </div>
 
-# Interface1
+# Interface
 <div align="center">
     <img src="https://i.ibb.co/47Js3VZ/1.png" width="600px"</img> 
 </div>
-
-# Interface2
 <div align="center">
     <img src="https://i.ibb.co/Vq3FycT/2.png" width="600px"</img> 
 </div>
