@@ -24,6 +24,10 @@
     <img src="https://i.ibb.co/vZHmbXr/3.png" width="600px"</img> 
 </div>
 
+# Run
+- After installation
+- Enter anywhere in terminal: octopus
+
 # Interface
 <div align="center">
     <img src="https://i.ibb.co/47Js3VZ/1.png" width="600px"</img> 
