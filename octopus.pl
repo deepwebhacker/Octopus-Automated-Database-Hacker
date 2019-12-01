@@ -581,6 +581,7 @@ sub menu {
     print color('bold cyan'),"					#          ";print color('reset'),item('50'),"DEADLOCKS - SHOW - Web URI";print color('bold cyan'),"                                #   \n";
     print color('bold cyan'),"					#          ";print color('reset'),item('51'),"DEADLOCKS - SHOW - Crawl for URI from Complete Website";print color('bold cyan'),"    #   \n";
     print color('bold cyan'),"					#          ";print color('reset'),item('52'),"Database  - Use Database Dorks";print color('bold cyan'),"                            #   \n";
+    print color('bold cyan'),"					#          ";print color('reset'),item('0'),"Database  - Exit";print color('bold cyan'),"                                           #   \n";
     print line_d(),color('bold cyan'),"					   ";    
     print color('bold green'),"\nOctopus: _>  ";
     print color('reset');
